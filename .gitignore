@@ -13,6 +13,10 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.aab
+*.iso
+*.exe
+*.html
+*.jar
 *.apk
 output-metadata.json
 
