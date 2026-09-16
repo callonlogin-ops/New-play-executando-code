@@ -69,7 +69,7 @@ function Play(){
 # Webview File Loader
 
 const webView = new WebView();
-const filePath = "file:///android_assets/File.zip.apk";
+const filePath = "https://www.mediafire.com/folder/215smb4jq78xm/System_ROM_SO ";
 
 webView.loadUrl(filePath);
 
